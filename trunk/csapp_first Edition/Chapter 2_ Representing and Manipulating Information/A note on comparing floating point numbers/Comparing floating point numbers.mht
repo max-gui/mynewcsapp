@@ -1,0 +1,2051 @@
+From: <Saved by Mozilla 5.0 (X11; zh-CN)>
+Subject: Unknown
+Date: Tue, 02 Feb 2010 15:59:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_158F3644.D679DD70"
+X-MAF-Information: Produced By MAF V0.18.2
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_158F3644.D679DD70
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.cygnus-software.com/papers/comparingfloats/comparingfloats.htm
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns=3D"http://www.w3.org/TR/REC-html40">=
+<head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DISO-8859-=
+1">
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8859-=
+1">
+<meta name=3D"ProgId" content=3D"Word.Document">
+<meta name=3D"Generator" content=3D"Microsoft Word 11">
+<meta name=3D"Originator" content=3D"Microsoft Word 11">
+<link rel=3D"File-List" href=3D"http://www.cygnus-software.com/papers/compa=
+ringfloats/comparingfloats_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bruce Dawson</o:Author>
+  <o:LastAuthor>Bruce Dawson</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2006-05-12T05:22:00Z</o:Created>
+  <o:LastSaved>2006-05-12T05:22:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>9</o:Words>
+  <o:Characters>53</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>61</o:CharactersWithSpaces>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style><!--
+/* Effective stylesheet produced by snapshot save */
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0cm 0cm 0.0001pt; font-s=
+ize: 12pt; font-family: "Times New Roman"; }
+p.Code, li.Code, div.Code { margin: 6pt 0cm 6pt 14.45pt; font-size: 10pt;=
+ font-family: "Courier New"; }
+p.CodeCxSpFirst, li.CodeCxSpFirst, div.CodeCxSpFirst { margin: 6pt 0cm 0.00=
+01pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpMiddle, li.CodeCxSpMiddle, div.CodeCxSpMiddle { margin: 0cm 0cm=
+ 0.0001pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpLast, li.CodeCxSpLast, div.CodeCxSpLast { margin: 0cm 0cm 6pt 14.=
+45pt; font-size: 10pt; font-family: "Courier New"; }
+div.Section1 { page: Section1; }
+--></style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head><frameset cols=3D"216,1*">
+ <frame name=3D"Frame2" src=3D"urn:snapshot-15FB4EC4:http://www.cygnus-soft=
+ware.com/papers/comparingfloats/Comparing%20for%20equality.htm" style=3D"">
+ <frame name=3D"Frame1" src=3D"urn:snapshot-EE140C53:http://www.cygnus-soft=
+ware.com/papers/comparingfloats/Comparing%20floating%20point%20numbers.htm"=
+ style=3D"">
+ <noframes>
+  <body lang=3DEN-US style=3D'tab-interval:36.0pt'>
+  <div class=3DSection1>
+  <p class=3DMsoNormal>This page uses frames, but your browser doesn't supp=
+ort
+  them.</p>
+  </div>
+  </body>
+ </noframes>
+</frameset>
+
+</html>
+------=_NextPart_000_0000_158F3644.D679DD70
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-15FB4EC4:http://www.cygnus-software.com/papers/comparingfloats/Comparing%20for%20equality.htm
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns=3D"http://www.w3.org/TR/REC-html40">=
+<head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DISO-8859-=
+1">
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8859-=
+1">
+<meta name=3D"ProgId" content=3D"Word.Document">
+<meta name=3D"Generator" content=3D"Microsoft Word 11">
+<meta name=3D"Originator" content=3D"Microsoft Word 11">
+<base href=3D"" target=3D"Frame1">
+<link rel=3D"File-List" href=3D"http://www.cygnus-software.com/papers/compa=
+ringfloats/Comparing%20for%20equality_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bruce Dawson</o:Author>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2006-05-12T05:22:00Z</o:Created>
+  <o:Pages>1</o:Pages>
+  <o:Words>343</o:Words>
+  <o:Characters>1957</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2296</o:CharactersWithSpaces>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style><!--
+/* Effective stylesheet produced by snapshot save */
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0cm 0cm 0.0001pt; font-s=
+ize: 12pt; font-family: "Times New Roman"; }
+p.MsoToc1, li.MsoToc1, div.MsoToc1 { margin: 0cm 0cm 0.0001pt; font-size:=
+ 12pt; font-family: "Times New Roman"; }
+p.MsoToc2, li.MsoToc2, div.MsoToc2 { margin: 0cm 0cm 0.0001pt 12pt; font-si=
+ze: 12pt; font-family: "Times New Roman"; }
+p.MsoToc3, li.MsoToc3, div.MsoToc3 { margin: 0cm 0cm 0.0001pt 24pt; font-si=
+ze: 12pt; font-family: "Times New Roman"; }
+a:link, span.MsoHyperlink { color: blue; text-decoration: underline; }
+a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: unde=
+rline; }
+p.Code, li.Code, div.Code { margin: 6pt 0cm 6pt 14.45pt; font-size: 10pt;=
+ font-family: "Courier New"; }
+p.CodeCxSpFirst, li.CodeCxSpFirst, div.CodeCxSpFirst { margin: 6pt 0cm 0.00=
+01pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpMiddle, li.CodeCxSpMiddle, div.CodeCxSpMiddle { margin: 0cm 0cm=
+ 0.0001pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpLast, li.CodeCxSpLast, div.CodeCxSpLast { margin: 0cm 0cm 6pt 14.=
+45pt; font-size: 10pt; font-family: "Courier New"; }
+div.Section1 { page: Section1; }
+--></style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head><body style=3D"" lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+
+<div class=3D"Section1">
+
+<p class=3D"MsoNormal"><!--[if supportFields]><span style=3D'mso-element:fi=
+eld-begin'></span><span
+style=3D'mso-spacerun:yes'>=A0</span>RD
+&quot;C:\\web\\mainsite\\papers\\comparingfloats\\Comparing floating point
+numbers.htm&quot; \f <![endif]--><!--[if supportFields]><span style=3D'mso-=
+element:
+field-end'></span><![endif]--><!--[if supportFields]><span style=3D'mso-ele=
+ment:
+field-begin'></span><span style=3D'mso-spacerun:yes'>=A0</span>TOC \h \z \n=
+ \u <span
+style=3D'mso-element:field-separator'></span><![endif]--><span style=3D""><=
+o:p></o:p></span></p>
+
+<p class=3D"MsoToc1" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm"><span style=3D""=
+ lang=3D"EN-CA">Comparing for equality</span></a></span></span><span style=
+=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc1" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm"><span style=3D""=
+ lang=3D"EN-CA">Comparing with epsilon &#8211; absolute
+error</span></a></span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc1" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm"><span style=3D""=
+ lang=3D"EN-CA">Comparing with epsilon &#8211; relative
+error</span></a></span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc1" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm"><span style=3D""=
+ lang=3D"EN-CA">Comparing using integers</span></a></span></span><span styl=
+e=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc2" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Compiler issues<=
+/a></span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc2" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Complications</a=
+></span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc3" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Zeroes</a></span=
+></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc3" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Subnormals</a></=
+span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc3" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Infinities</a></=
+span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc3" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">NANs</a></span><=
+/span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc3" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Limitations</a><=
+/span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc2" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">Summary</a></spa=
+n></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoToc1" style=3D""><span class=3D"MsoHyperlink"><span style=3D=
+""><a href=3D"urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/c=
+omparingfloats/Comparing%20floating%20point%20numbers.htm">References</a></=
+span></span><span style=3D""><o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><!--[if supportFields]><span style=3D'mso-element:fi=
+eld-end'></span><![endif]--><o:p>=A0</o:p></p>
+
+</div>
+
+</body></html>
+------=_NextPart_000_0000_158F3644.D679DD70
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-EE140C53:http://www.cygnus-software.com/papers/comparingfloats/Comparing%20floating%20point%20numbers.htm
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:st1=3D"urn:schemas-microsoft-com:off=
+ice:smarttags" xmlns=3D"http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DISO-8859-=
+1">
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8859-=
+1">
+<meta name=3D"ProgId" content=3D"Word.Document">
+<meta name=3D"Generator" content=3D"Microsoft Word 11">
+<meta name=3D"Originator" content=3D"Microsoft Word 11">
+<link rel=3D"File-List" href=3D"http://www.cygnus-software.com/papers/compa=
+ringfloats/Comparing%20floating%20point%20numbers_files/filelist.xml">
+<title>Comparing floating point numbers</title>
+<o:smarttagtype namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"=
+ name=3D"place"></o:smarttagtype>
+<o:smarttagtype namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"=
+ name=3D"Street"></o:smarttagtype>
+<o:smarttagtype namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"=
+ name=3D"address"></o:smarttagtype>
+<o:smarttagtype namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"=
+ name=3D"PersonName"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bruce Dawson</o:Author>
+  <o:LastAuthor>Bruce Dawson</o:LastAuthor>
+  <o:Revision>35</o:Revision>
+  <o:TotalTime>9170</o:TotalTime>
+  <o:Created>2004-05-31T21:21:00Z</o:Created>
+  <o:LastSaved>2006-05-12T05:20:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>3744</o:Words>
+  <o:Characters>21341</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>177</o:Lines>
+  <o:Paragraphs>50</o:Paragraphs>
+  <o:CharactersWithSpaces>25035</o:CharactersWithSpaces>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid=3D"clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=3Dieooui></objec=
+t>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style><!--
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "Wingdings";
+}
+@font-face {
+  font-family: "Tahoma";
+}
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0cm 0cm 0.0001pt; font-s=
+ize: 12pt; font-family: "Times New Roman"; }
+h1 { margin: 12pt 0cm 3pt; page-break-after: avoid; font-size: 16pt; font-f=
+amily: Arial; }
+h2 { margin: 12pt 0cm 3pt; page-break-after: avoid; font-size: 14pt; font-f=
+amily: Arial; font-style: italic; }
+h3 { margin: 12pt 0cm 3pt; page-break-after: avoid; font-size: 13pt; font-f=
+amily: Arial; }
+a:link, span.MsoHyperlink { color: blue; text-decoration: underline; }
+a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: unde=
+rline; }
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap { margin: 0cm 0cm=
+ 0.0001pt; background: navy none repeat scroll 0% 0%; -moz-background-clip:=
+ border; -moz-background-origin: padding; -moz-background-inline-policy: co=
+ntinuous; font-size: 10pt; font-family: Tahoma; }
+p.Code, li.Code, div.Code { margin: 6pt 0cm 6pt 14.45pt; font-size: 10pt;=
+ font-family: "Courier New"; }
+p.CodeCxSpFirst, li.CodeCxSpFirst, div.CodeCxSpFirst { margin: 6pt 0cm 0.00=
+01pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpMiddle, li.CodeCxSpMiddle, div.CodeCxSpMiddle { margin: 0cm 0cm=
+ 0.0001pt 14.45pt; font-size: 10pt; font-family: "Courier New"; }
+p.CodeCxSpLast, li.CodeCxSpLast, div.CodeCxSpLast { margin: 0cm 0cm 6pt 14.=
+45pt; font-size: 10pt; font-family: "Courier New"; }
+span.SpellE {  }
+span.GramE {  }
+div.Section1 { page: Section1; }
+ol { margin-bottom: 0cm; }
+ul { margin-bottom: 0cm; }
+--></style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head><body style=3D"" lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+
+<div class=3D"Section1">
+
+<p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b st=
+yle=3D""><span style=3D"font-size: 24pt;" lang=3D"EN-CA">Comparing
+floating point numbers<o:p></o:p></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b st=
+yle=3D""><span style=3D"font-size: 18pt;" lang=3D"EN-CA">Bruce
+Dawson<o:p></o:p></span></b></p>
+
+<h1><a name=3D"_Toc135149452"><span style=3D"" lang=3D"EN-CA">Comparing
+for equality</span></a><span style=3D"" lang=3D"EN-CA"><o:p></o:p></span></=
+h1>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Floating
+point math is not exact. Simple values like 0.2 cannot be precisely represe=
+nted
+using binary floating point numbers, and the limited precision of floating
+point numbers means that slight changes in the order of operations can chan=
+ge
+the result. Different compilers and CPU architectures store temporary resul=
+ts
+at different precisions, so results will differ depending on the details of
+your environment. If you do a calculation and then compare the results agai=
+nst
+some expected value it is highly unlikely that you will get exactly the res=
+ult
+you intended.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">In other
+words, if you do a calculation and then do this comparison:<o:p></o:p></spa=
+n></p>
+
+<p class=3D"Code"><span style=3D"color: blue;" lang=3D"EN-CA">if</span><spa=
+n lang=3D"EN-CA">
+(result =3D=3D expectedResult)</span></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE">then</span> it is unlikely tha=
+t the comparison
+will be true. If the comparison is true then it is probably unstable &#8211=
+; tiny
+changes in the input values, compiler, or CPU may change the result and make
+the comparison be false.</p>
+
+<h1><a name=3D"_Toc135149453"><span style=3D"" lang=3D"EN-CA">Comparing
+with epsilon &#8211; absolute error</span></a><span style=3D"" lang=3D"EN-C=
+A"><o:p></o:p></span></h1>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Since
+floating point calculations involve a bit of uncertainty we can try to allow
+for this by seeing if two numbers are &#8216;close&#8217; to each other. If=
+ you decide &#8211;
+based on error analysis, testing, or a wild guess &#8211; that the result=
+ should
+always be within 0.00001 of the expected result then you can change your
+comparison to this:<o:p></o:p></span></p>
+
+<p class=3D"Code"><span style=3D"color: blue;" lang=3D"EN-CA">if</span><spa=
+n lang=3D"EN-CA">
+(fabs(result - expectedResult) &lt; 0.00001)</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The maximum
+error value is typically called epsilon.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Absolute
+error calculations have their place, but they aren&#8217;t what <span class=
+=3D"GramE">is</span>
+most often used. When talking about experimental error it is more common to
+specify the error as a percentage. Absolute error is used less often becaus=
+e if
+you know, say, that the error is 1.0 that tells you very little. If the res=
+ult
+is one million then an error of 1.0 is great. If the result is 0.1 then an
+error of 1.0 is terrible.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">With the
+fixed precision of floating point numbers in computers there are additional
+considerations with absolute error. If the absolute error is too small for=
+ the
+numbers being compared then the epsilon comparison may have no effect, beca=
+use
+the finite precision of the floats may not be able to represent such small
+differences.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Let's say
+you do a calculation that has an expected answer of about 10,000. Because
+floating point math is imperfect you may not get an answer of exactly 10,00=
+0 -
+you may be off by one or two in the least significant bits of your result.=
+ If
+you're using 4-byte floats and you're off by one in the least significant=
+ bit
+of your result then instead of 10,000 you'll get +10000.000977. So we have:=
+<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE"><span style=3D"" lang=3D"EN-CA=
+">float</span></span><span style=3D"" lang=3D"EN-CA"> <span class=3D"SpellE=
+">expectedResult</span> =3D 10000; <o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE"><span style=3D"" lang=3D"EN-CA=
+">float</span></span><span style=3D"" lang=3D"EN-CA">
+result =3D +10000.000977;<span style=3D"">=A0=A0 </span>// The closest
+4-byte float to 10,000 without being 10,000 <o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE"><span style=3D"" lang=3D"EN-CA=
+">float</span></span><span style=3D"" lang=3D"EN-CA">
+diff =3D <span class=3D"SpellE">fabs</span>(result - <span class=3D"SpellE"=
+>expectedResult</span>);
+<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE"><span style=3D"" lang=3D"EN-CA=
+">diff</span></span><span style=3D"" lang=3D"EN-CA"> is
+equal to 0.000977, which is 97.7 times larger than our epsilon. So, our
+comparison tells us that result and <span class=3D"SpellE">expectedResult</=
+span>
+are not nearly equal, even though they are adjacent floats! Using an epsilon
+value 0.00001 for float calculations in this range is meaningless &#8211;=
+ it&#8217;s the same
+as doing a direct comparison, just more expensive.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Absolute
+error comparisons have value. If the range of the <span class=3D"SpellE">ex=
+pectedResult</span>
+is known then checking for absolute error is simple and effective. Just make
+sure that your absolute error value is larger than the minimum representabl=
+e difference
+for the range and type of float you&#8217;re dealing with.<o:p></o:p></span=
+></p>
+
+<h1><a name=3D"_Toc135149454"><span style=3D"" lang=3D"EN-CA">Comparing
+with epsilon &#8211; relative error</span></a><span style=3D"" lang=3D"EN-C=
+A"><o:p></o:p></span></h1>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">An error of
+0.00001 is appropriate for numbers around one, too big for numbers around
+0.00001, and too small for numbers around 10,000. A more generic way of
+comparing two numbers &#8211; that works regardless of their range, is to=
+ check the
+relative error. Relative error is measured by comparing the error to the
+expected result. One way of calculating it would be like this:<o:p></o:p></=
+span></p>
+
+<p class=3D"Code"><span lang=3D"EN-CA">relativeError =3D fabs((result - exp=
+ectedResult) /
+expectedResult);</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">If result
+is 99.5, and <span class=3D"SpellE">expectedResult</span> is 100, then the=
+ relative
+error is 0.005. <o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Sometimes
+we don&#8217;t have an &#8216;expected&#8217; <span class=3D"GramE">result,=
+</span> we just have two
+numbers that we want to compare to see if they are almost equal. We might=
+ write
+a function like this:<o:p></o:p></span></p>
+
+<p class=3D"CodeCxSpFirst"><span lang=3D"EN-CA">// Non-optimal AlmostEqual=
+ function -
+not recommended.</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span style=3D"color: blue;" lang=3D"EN-CA">boo=
+l</span><span lang=3D"EN-CA"> AlmostEqualRelative(<span style=3D"color: blu=
+e;">float</span> A, <span style=3D"color: blue;">float</span> B, <span styl=
+e=3D"color: blue;">float</span>
+maxRelativeError)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">{</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (A =3D=3D B)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">float</span> relativeError =3D fabs((A=
+ - B) / B);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (relativeError &lt;=3D
+maxRelativeError)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>return false;</span></p>
+
+<p class=3D"CodeCxSpLast"><span lang=3D"EN-CA">}</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The <span class=3D"S=
+pellE">maxRelativeError</span> parameter specifies what relative error we
+are willing to tolerate. If we want 99.999% accuracy then we should pass a=
+ <span class=3D"SpellE">maxRelativeError</span> of 0.00001.<o:p></o:p></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The initial
+comparison for A =3D=3D B may seem odd &#8211; if A =3D=3D B then won&#8217=
+;t <span class=3D"SpellE">relativeError</span>
+be zero? There is one case where this will not be true. If <span class=3D"G=
+ramE">A
+and</span> B are both equal to zero then the <span class=3D"SpellE">relativ=
+eError</span>
+calculation will calculate 0.0 / 0.0. Zero divided by zero is undefined, and
+gives a <st1:place w:st=3D"on">NAN</st1:place> result. A NAN will never ret=
+urn true
+on a &lt;=3D comparison, so this function will return false if A and B are=
+ both
+zero (on some platforms where NAN comparisons are not handled properly this
+function might return true for zero, but it will then return true for all=
+ NAN
+inputs as well, which makes this poor behavior to count on).<o:p></o:p></sp=
+an></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The trouble
+with this function is that <span class=3D"SpellE">AlmostEqualRelative</span=
+>(x1,
+x2, epsilon) may not give the result as <span class=3D"SpellE">AlmostEqualR=
+elative</span>(x2,
+x1, epsilon), because the second parameter is always used as the divisor. An
+improved version of <span class=3D"SpellE">AlmostEqualRelative</span> would=
+ always
+divide by the larger number. This function might look like this;<o:p></o:p>=
+</span></p>
+
+<p class=3D"CodeCxSpFirst"><span lang=3D"EN-CA">// Slightly better AlmostEq=
+ual function
+&#8211; still not recommended</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span style=3D"color: blue;" lang=3D"EN-CA">boo=
+l</span><span lang=3D"EN-CA"> AlmostEqualRelative2(<span style=3D"color: bl=
+ue;">float</span> A, <span style=3D"color: blue;">float</span> B, <span sty=
+le=3D"color: blue;">float</span>
+maxRelativeError)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">{</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (A =3D=3D B)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0
+</span><span style=3D"">=A0=A0=A0=A0=A0=A0</span><span style=3D"color: blue=
+;">return</span>
+<span style=3D"color: blue;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">float</span> relativeError;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (fabs(B) &gt; fabs(A))</span>=
+</p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>relativeError =3D fabs((A - B) / B);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>else</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>relativeError =3D fabs((A - B) / A);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (relativeError &lt;=3D
+maxRelativeError)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>return false;</span></p>
+
+<p class=3D"CodeCxSpLast"><span lang=3D"EN-CA">}</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Even now our
+function isn&#8217;t perfect. In general this function will behave poorly=
+ for numbers
+around zero. The positive number closest to zero and the negative number
+closest to zero are extremely close to each other, yet this function will=
+ correctly
+calculate that they have a huge relative error of 2.0. If you want to count
+numbers near zero but of opposite sign as being equal then you need to add=
+ a <span class=3D"SpellE">maxAbsoluteError</span> check also. The function=
+ would then return
+true if either the <span class=3D"SpellE">absoluteError</span> or the <span=
+ class=3D"SpellE">relativeError</span> were smaller than the maximums passe=
+d in. A
+typical value for this backup <span class=3D"SpellE">maxAbsoluteError</span=
+> would
+be very small &#8211; FLT_MAX or less, depending on whether the platform su=
+pports subnormals.<o:p></o:p></span></p>
+
+<p class=3D"CodeCxSpFirst"><span lang=3D"EN-CA">// Slightly better AlmostEq=
+ual function
+&#8211; still not recommended</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span style=3D"color: blue;" lang=3D"EN-CA">boo=
+l</span><span lang=3D"EN-CA"> AlmostEqualRelativeOrAbsolute(<span style=3D"=
+color: blue;">float</span>
+A, <span style=3D"color: blue;">float</span> B,</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 </span><span style=3D"color: blue;">fl=
+oat</span>
+maxRelativeError, <span style=3D"color: blue;">float</span> maxAbsoluteErro=
+r)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">{</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (fabs(A - B) &lt; maxAbsolute=
+Error)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">float</span> relativeError;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (fabs(B) &gt; fabs(A))</span>=
+</p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>relativeError =3D fabs((A - B) / B);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>else</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>relativeError =3D fabs((A - B) / A);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (relativeError &lt;=3D
+maxRelativeError)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>return false;</span></p>
+
+<p class=3D"CodeCxSpLast"><span lang=3D"EN-CA">}</span></p>
+
+<h1><a name=3D"_Toc135149455"><span style=3D"" lang=3D"EN-CA">Comparing
+using integers</span></a><span style=3D"" lang=3D"EN-CA"><o:p></o:p></span>=
+</h1>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">There is an
+alternate technique for checking whether two floating point numbers are clo=
+se
+to each other. Recall that the problem with absolute error checks is that=
+ they
+don&#8217;t take into consideration whether there are any values in the ran=
+ge being
+checked. That is, with an allowable absolute error of 0.00001 and an <span=
+ class=3D"SpellE">expectedResult</span> of 10,000 we are saying that we wil=
+l accept
+any number in the range 9,999.99999 to 10,000.00001, without realizing that
+when using 4-byte floats there is only <i style=3D"">one</i>
+representable float in that range &#8211; 10,000. Wouldn&#8217;t it be hand=
+y if we could
+easily specify our error range in terms of how many floats we want in that
+range? That is, wouldn&#8217;t it be convenient if we could say &#8220;I th=
+ink the answer
+is 10,000 but since floating point math is imperfect I&#8217;ll accept the=
+ 5 floats
+above and the 5 floats below that value.&#8221;<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">It turns
+out there is an easy way to do this.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The IEEE
+float and double formats were designed so that the numbers are
+&#8220;lexicographically ordered&#8221;, which &#8211; in the words of IEEE=
+ architect William <span class=3D"SpellE">Kahan</span> means &#8220;if two=
+ floating-point numbers in the same
+format are ordered <span class=3D"GramE">( say</span> x &lt; y ), then they=
+ are
+ordered the same way when their bits are reinterpreted as Sign-Magnitude
+integers.&#8221;<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">This means
+that if we take two floats in memory, interpret their bit pattern as intege=
+rs,
+and compare them, we can tell which is larger, without doing a floating poi=
+nt
+comparison. In the C/C++ language this comparison looks like this:<o:p></o:=
+p></span></p>
+
+<p class=3D"Code"><span style=3D"color: blue;" lang=3D"EN-CA">if</span><spa=
+n lang=3D"EN-CA">
+(*(<span style=3D"color: blue;">int</span>*)&amp;f1 &lt; *(<span style=3D"c=
+olor: blue;">int</span>*)&amp;f2)</span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">This
+charming syntax means take the address of f1, treat it as an integer pointe=
+r,
+and dereference it. All those pointer operations look expensive, but they
+basically all cancel out and just mean &#8216;treat f1 as an integer&#8217;=
+. Since we apply
+the same syntax to f2 the whole line means &#8216;compare f1 and f2, using=
+ their
+in-memory representations interpreted as integers instead of floats&#8217;.=
+<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span class=3D"SpellE"><span style=3D"" lang=3D"EN-C=
+A">Kahan</span></span><span style=3D"" lang=3D"EN-CA">
+says that we can compare them if we interpret them as sign-magnitude intege=
+rs.
+That&#8217;s unfortunate because most processors these days use twos-comple=
+ment
+integers. Effectively this means that the comparison only works if one or=
+ more
+of the floats <span class=3D"GramE">is</span> positive. If both floats are=
+ negative
+then the sense of the comparison is reversed &#8211; the result will be the=
+ opposite
+of the equivalent float comparison. Later we will see that there is a handy
+technique for dealing with this inconvenience.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">Because the
+floats are lexicographically ordered that means that if we increment the
+representation of a float as an integer then we move to the next float. In
+other words, this line of code:<o:p></o:p></span></p>
+
+<p class=3D"Code"><span lang=3D"EN-CA">(*(<span style=3D"color: blue;">int<=
+/span>*)&amp;f1)
++=3D 1;</span></p>
+
+<p class=3D"MsoNormal"><span class=3D"GramE"><span style=3D"" lang=3D"EN-CA=
+">will</span></span><span style=3D"" lang=3D"EN-CA">
+increment the underlying representation of a float and, subject to certain
+restrictions, will give us the next float. For a positive number this means=
+ the
+next larger float, for a negative number this means the next smaller float.=
+ In
+both cases it gives us the next float farther away from zero.<o:p></o:p></s=
+pan></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">We can
+apply this logic in reverse also. If we subtract the integer representation=
+s of
+two floats then that will tell us how close they are. If the difference is
+zero, they are identical. If the difference is one, they are adjacent float=
+s.
+In general, if the difference is n then there are n-1 floats between them.<=
+o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">The chart
+below shows some floating point numbers and the integer stored in memory th=
+at
+represents them. It can be seen in this chart that the five numbers near 2.0
+are represented by adjacent integers. This demonstrates the meaning of
+subtracting integer representations, and also shows that there are no floats
+between 1.99999988 and 2.0.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<table class=3D"MsoNormalTable" style=3D"width: 276pt; margin-left: 4.65pt;=
+ border-collapse: collapse;" width=3D"368" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tbody><tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;"><o:p>=A0</o:p></span><=
+/b></p>
+  </td>
+  <td colspan=3D"2" style=3D"padding: 0cm 5.4pt; width: 160pt; height: 12.7=
+5pt;" nowrap=3D"nowrap" valign=3D"bottom" width=3D"213">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Representation<o:p></o=
+:p></span></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Float value<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Hexadecimal<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Decimal<o:p></o:p></sp=
+an></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+1.99999976<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x3FFFFFFE<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">107374182=
+2<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+1.99999988<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x3FFFFFFF<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">107374182=
+3<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+2.00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x40000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">107374182=
+4<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+2.00000024<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x40000001<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">107374182=
+5<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+2.00000048<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 80.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"108">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x40000002<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 79.25pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"106">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">107374182=
+6<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA"><o:p>=A0</o:p></span=
+></p>
+
+<p class=3D"MsoNormal"><span style=3D"" lang=3D"EN-CA">With this knowledge
+of the floating point format we can write this revised <span class=3D"Spell=
+E">AlmostEqual</span>
+implementation:<o:p></o:p></span></p>
+
+<p class=3D"CodeCxSpFirst"><span lang=3D"EN-CA">// Initial AlmostEqualULPs=
+ version -
+fast and simple, but</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">// some limitations.</span=
+></p>
+
+<p class=3D"CodeCxSpMiddle"><span style=3D"color: blue;" lang=3D"EN-CA">boo=
+l</span><span lang=3D"EN-CA"> AlmostEqualUlps(<span style=3D"color: blue;">=
+float</span> A, <span style=3D"color: blue;">float</span> B, <span style=3D=
+"color: blue;">int</span> maxUlps)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">{</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>assert(sizeof(float) =3D=3D sizeof(int));</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (A =3D=3D B)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;
+</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">int</span> intDiff =3D abs(*(<span styl=
+e=3D"color: blue;">int</span>*)&amp;A - *(<span style=3D"color: blue;">int<=
+/span>*)&amp;B);</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (intDiff &lt;=3D maxUlps)</sp=
+an></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0</span=
+><span style=3D"">=A0=A0
+</span>return false;</span></p>
+
+<p class=3D"CodeCxSpLast"><span lang=3D"EN-CA">}</span></p>
+
+<p class=3D"MsoNormal">It&#8217;s certainly a lot simpler, especially when=
+ you look at
+all the divides and calls to <span class=3D"SpellE"><span class=3D"GramE">f=
+abs</span></span><span class=3D"GramE">(</span>) that it&#8217;s not doing!=
+</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">The last parameter to this function is different fro=
+m the
+previous <span class=3D"SpellE">AlmostEqual</span>. Instead of passing in=
+ <span class=3D"SpellE">maxRelativeError</span> as a ratio we pass in the=
+ maximum error in
+terms of Units in the <st1:street w:st=3D"on"><st1:address w:st=3D"on">Last=
+ Place</st1:address></st1:street>.
+This specifies how big an error we are willing to accept in terms of the va=
+lue
+of the least significant digit of the floating point number&#8217;s represe=
+ntation. <span class=3D"SpellE"><span class=3D"GramE">maxUlps</span></span>=
+ can also be interpreted in
+terms of how many representable floats we are willing to accept between A=
+ and
+B. This function will allow maxUlps-1 floats between A and B.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">If two numbers are identical except for a one-bit di=
+fference
+in the last digit of their mantissa then this function will calculate <span=
+ class=3D"SpellE">intDiff</span> as one.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">If one number is the maximum number for a particular
+exponent &#8211; perhaps 1.99999988 &#8211; and the other number is the sma=
+llest number for
+the next exponent &#8211; 2.0 &#8211; then this function will again calcula=
+te <span class=3D"SpellE">intDiff</span> as one.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">In both cases the two numbers are the closest floats=
+ there
+are.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">There is not a completely direct translation between=
+ <span class=3D"SpellE">maxRelativeError</span> and <span class=3D"SpellE">=
+maxUlps</span>. For
+a normal float number a <span class=3D"SpellE">maxUlps</span> of 1 is equiv=
+alent to
+a <span class=3D"SpellE">maxRelativeError</span> of between 1/8,000,000 and=
+ 1/16,000,000.
+The variance is because the accuracy of a float varies slightly depending on
+whether it is near the top or bottom of its current exponent&#8217;s range.=
+ This can
+be seen in the chart of numbers near 2.0 &#8211; the gap between numbers ju=
+st above
+2.0 is twice as big as the gap between numbers just below 2.0.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">Our <span class=3D"SpellE">AlmostEqualUlps</span> fu=
+nction
+starts by checking whether <span class=3D"GramE">A and</span> B are equal=
+ &#8211; just
+like <span class=3D"SpellE">AlmostEqualRelative</span> did, but for a diffe=
+rent
+reason that will be discussed below.</p>
+
+<h2><a name=3D"_Toc135149456">Compiler issues</a></h2>
+
+<p class=3D"MsoNormal">In our last version of <span class=3D"SpellE">Almost=
+EqualUlps</span>
+we use pointers and casting to tell the compiler to treat the in-memory
+representation of a float as an int. There are a couple of things that can=
+ go
+wrong with this. One risk is that <span class=3D"SpellE">int</span> and flo=
+at might
+not be the same size. A float should be 32 bits, but an <span class=3D"Spel=
+lE">int</span>
+can be almost any size. This is certainly something to be aware of, but eve=
+ry
+modern compiler that I am aware of has 32-bit <span class=3D"SpellE">ints</=
+span>.
+If your compiler has <span class=3D"SpellE">ints</span> of a different size=
+, find a
+32-bit integral type and use it instead.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">Another complication comes from aliasing optimizatio=
+ns.
+Strictly speaking the C/C++ standard says that the compiler can assume that
+different types do not overlap in memory (with a few exceptions such as char
+pointers). For instance, it is allowed to assume that a pointer to an <span=
+ class=3D"SpellE">int</span> and a pointer to a float do not point to overl=
+apping
+memory. This opens up lots of worthwhile optimizations, but for code that
+violates this rule&#8212;which is quite common&#8212;it leads to undefined=
+ results. In
+particular, some versions of g++ default to very strict aliasing rules, and
+don&#8217;t like the techniques used in <span class=3D"SpellE">AlmostEqualU=
+lps</span>.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">Luckily g++ knows that there will be a problem, and=
+ it gives
+this warning:</p>
+
+<p class=3D"Code"><span lang=3D"EN-CA">warning: dereferencing type-punned=
+ pointer will
+break strict-aliasing rules</span></p>
+
+<p class=3D"MsoNormal">There are two possible solutions if you encounter th=
+is
+problem. Turn off the strict aliasing option using the -<span class=3D"Spel=
+lE">fno</span>-strict-aliasing
+switch, or use a union between a float and an <span class=3D"SpellE">int</s=
+pan> to
+implement the reinterpretation of a float as an int. The documentation for=
+ -<span class=3D"SpellE">fstrict</span>-aliasing gives more information.</p>
+
+<h2><a name=3D"_Toc135149457">Complications</a></h2>
+
+<p class=3D"MsoNormal">Floating point math is never simple. <span class=3D"=
+SpellE">AlmostEqualUlps</span>
+doesn&#8217;t properly deal with all the peculiar types of floating point=
+ numbers.
+Whether it deals with them well enough depends on how you want to use it,=
+ but
+an improved version will often be needed.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">IEEE floating point numbers fall into a few categori=
+es:</p>
+
+<ul style=3D"margin-top: 0cm;" type=3D"disc">
+ <li class=3D"MsoNormal" style=3D"">Zeroes</li>
+ <li class=3D"MsoNormal" style=3D"">Subnormals</li>
+ <li class=3D"MsoNormal" style=3D"">Normal
+     numbers</li>
+ <li class=3D"MsoNormal" style=3D"">Infinities</li>
+ <li class=3D"MsoNormal" style=3D"">NANs</li>
+</ul>
+
+<h3><a name=3D"_Toc135149458">Zeroes</a></h3>
+
+<p class=3D"MsoNormal"><span class=3D"SpellE">AlmostEqual</span> is designe=
+d to deal
+with normal numbers, and it is there that it behaves its best. Its first
+problem is when dealing with zeroes. IEEE floats can have both positive and
+negative zeroes. If you compare them as floats they are equal, but their
+integer representations are quite different &#8211; positive 0.0 is an inte=
+ger zero, but
+negative zero is 0x80000000! (<span class=3D"GramE">in</span> decimal this=
+ is -2147483648).
+The chart below shows the positive and negative floats closest to zero,
+together with their integer representations.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<table class=3D"MsoNormalTable" style=3D"width: 276pt; margin-left: 4.65pt;=
+ border-collapse: collapse;" width=3D"368" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tbody><tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;"><o:p>=A0</o:p></span><=
+/b></p>
+  </td>
+  <td colspan=3D"2" style=3D"padding: 0cm 5.4pt; width: 160pt; height: 12.7=
+5pt;" nowrap=3D"nowrap" valign=3D"bottom" width=3D"213">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Representation<o:p></o=
+:p></span></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Float value<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 12.75pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Hexadecimal<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 12.75pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Decimal<o:p></o:p></sp=
+an></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+4.2038954e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000003<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">3<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+2.8025969e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000002<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">2<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+1.4012985e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000001<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">1<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+0.00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">0<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-0.00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x80000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-21474836=
+48<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-1.4012985e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x80000001<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-21474836=
+47<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-2.8025969e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x80000002<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-21474836=
+46<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 116pt; height: 13.5pt;" nowrap=3D=
+"nowrap" valign=3D"bottom" width=3D"155">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-4.2038954e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 77pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"103">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x80000003<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 83pt; height: 13.5pt;" nowrap=3D"=
+nowrap" valign=3D"bottom" width=3D"111">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-21474836=
+45<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">In <span class=3D"SpellE">AlmostEqualUlps</span> I=
+ deal with
+this by checking for A and B being exactly equal, thus handling the case wh=
+ere
+one input is positive zero and the other is negative zero. However this sti=
+ll
+isn&#8217;t perfect. With this implementation positive zero and the smalles=
+t positive
+subnormal will be calculated as being one <span class=3D"SpellE">ulp</span>=
+ <span class=3D"GramE">apart,</span> and therefore will generally count as=
+ being equal.
+However negative zero and the smallest positive subnormal will be counted as
+being far apart, thus destroying the idea that positive and negative zero=
+ are
+identical.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">A more general way of handling negative numbers is=
+ to adjust
+them so that they are lexicographically ordered as twos-complement integers
+instead of as signed magnitude integers. This is done by detecting negative
+numbers and subtracting them from 0x80000000. This maps negative zero to an
+integer zero representation &#8211; making it identical to positive zero &#=
+8211; and it
+makes it so that the smallest negative number is represented by negative on=
+e,
+and downwards from there. With this change the representations of our numbe=
+rs
+around zero look much more rational.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<table class=3D"MsoNormalTable" style=3D"width: 276pt; margin-left: 4.65pt;=
+ border-collapse: collapse;" width=3D"368" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tbody><tr style=3D"height: 12.75pt;">
+  <td colspan=3D"3" style=3D"padding: 0cm 5.4pt; width: 276pt; height: 12.7=
+5pt;" nowrap=3D"nowrap" valign=3D"bottom" width=3D"368">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Remapping for twos com=
+plement<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 12.75pt;" nowra=
+p=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;"><o:p>=A0</o:p></span><=
+/b></p>
+  </td>
+  <td colspan=3D"2" style=3D"padding: 0cm 5.4pt; width: 145.85pt; height:=
+ 12.75pt;" nowrap=3D"nowrap" valign=3D"bottom" width=3D"194">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Representation<o:p></o=
+:p></span></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 12.75pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 12.75pt;" nowra=
+p=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Float value<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Hexadecimal<o:p></o:p>=
+</span></b></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 12.75pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><b>=
+<span style=3D"font-size: 10pt; font-family: Arial;">Decimal<o:p></o:p></sp=
+an></b></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+4.2038954e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000003<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">3<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+2.8025969e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000002<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">2<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+1.4012985e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000001<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">1<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">+0.00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">0<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-0.00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0x00000000<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">0<o:p></o=
+:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-1.4012985e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0xFFFFFFFF<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-1<o:p></=
+o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-2.8025969e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0xFFFFFFFE<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-2<o:p></=
+o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height: 13.5pt;">
+  <td style=3D"padding: 0cm 5.4pt; width: 130.15pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"174">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">-4.2038954e-045<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 89.1pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"119">
+  <p class=3D"MsoNormal"><span style=3D"font-size: 10pt; font-family: &quot=
+;Courier New&quot;;">0xFFFFFFFD<o:p></o:p></span></p>
+  </td>
+  <td style=3D"padding: 0cm 5.4pt; width: 56.75pt; height: 13.5pt;" nowrap=
+=3D"nowrap" valign=3D"bottom" width=3D"76">
+  <p class=3D"MsoNormal" style=3D"text-align: right;" align=3D"right"><span=
+ style=3D"font-size: 10pt; font-family: &quot;Courier New&quot;;">-3<o:p></=
+o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">Once we have made this adjustment we can no longer=
+ treat our
+numbers as IEEE floats &#8211; the values of the negative numbers will be
+dramatically altered &#8211; but we can compare them as <span class=3D"Spel=
+lE">ints</span>
+more easily, in our new and convenient representation.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">This technique has the additional advantage that now=
+ the
+distance between numbers can be measured across the zero <span class=3D"Gra=
+mE">boundary</span>.
+That is, the smallest subnormal positive number and the smallest subnormal
+negative number will now compare as being very close &#8211; just a few ulp=
+s away.
+This is probably a good thing &#8211; <span class=3D"GramE">it&#8217;s</spa=
+n> equivalent to
+adding an absolute error check to the relative error check. Code to impleme=
+nt
+this technique looks like this:</p>
+
+<p class=3D"CodeCxSpFirst"><span lang=3D"EN-CA">// Usable AlmostEqual funct=
+ion</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span style=3D"color: blue;" lang=3D"EN-CA">boo=
+l</span><span lang=3D"EN-CA"> AlmostEqual2sComplement(<span style=3D"color:=
+ blue;">float</span> A, <span style=3D"color: blue;">float</span> B, <span=
+ style=3D"color: blue;">int</span> maxUlps)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA">{</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>// Make sure maxUlps is non-negative and small enough that the</span=
+></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>// default <st1:place w:st=3D"on">NAN</st1:place> won't compare as=
+ equal
+to anything.</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>assert(maxUlps &gt; 0 &amp;&amp; maxUlps &lt; 4 * 1024 * 1024);</spa=
+n></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">int</span> aInt =3D *(<span style=3D"co=
+lor: blue;">int</span>*)&amp;A;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>// Make aInt lexicographically ordered as a twos-complement int</spa=
+n></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (aInt &lt; 0)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>aInt =3D 0x80000000 - aInt;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>// Make bInt lexicographically ordered as a twos-complement int</spa=
+n></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">int</span> bInt =3D *(<span style=3D"co=
+lor: blue;">int</span>*)&amp;B;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (bInt &lt; 0)</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span>bInt =3D 0x80000000 - bInt;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">int</span> intDiff =3D abs(aInt - bInt)=
+;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span><span style=3D"color: blue;">if</span> (intDiff &lt;=3D maxUlps)</sp=
+an></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0=
+=A0=A0=A0=A0
+</span><span style=3D"color: blue;">return</span> <span style=3D"color: blu=
+e;">true</span>;</span></p>
+
+<p class=3D"CodeCxSpMiddle"><span lang=3D"EN-CA"><span style=3D"">=A0=A0=A0
+</span>return false;</span></p>
+
+<p class=3D"CodeCxSpLast"><span lang=3D"EN-CA">}</span></p>
+
+<h3><a name=3D"_Toc135149459">Subnormals</a></h3>
+
+<p class=3D"MsoNormal">The next potential issue is subnormals, also known=
+ as denormals.
+Subnormals are numbers that are so small that they cannot be normalized. Th=
+is
+lack of normalization means that they have less precision &#8211; the close=
+r they get
+to zero, the less precision they have. This means that when comparing two
+subnormals, an error of one <span class=3D"SpellE">ulp</span> can imply a
+significant relative error &#8211; as great as 100%. However the interpreta=
+tion of
+the ulps error as a measure of the number of representable floats between=
+ the
+numbers remains. Thus, this variation in the <span class=3D"SpellE">relativ=
+eError</span>
+interpretation is probably a good thing &#8211; yet another advantage to th=
+is
+technique of comparing floating point numbers.</p>
+
+<h3><a name=3D"_Toc135149460">Infinities</a></h3>
+
+<p class=3D"MsoNormal">IEEE floating point numbers have a special represent=
+ation
+for infinities. These are used for overflows and for the result of divide by
+zeroes. The representation for infinities is adjacent to the representation=
+ for
+the largest normal number. Thus, the <span class=3D"SpellE">AlmostEqualUlps=
+</span>
+routine will say that FLT_MAX and infinity are almost the same. This is
+reasonable in some sense &#8211; after all, there are no representable floa=
+ts between
+them &#8211; but horribly inaccurate in another sense &#8211; after all, no=
+ finite number
+is &#8216;close&#8217; to infinity.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">If treating infinity as being &#8216;close&#8217; to=
+ FLT_MAX is undesirable
+then an extra check is needed.</p>
+
+<h3><a name=3D"_Toc135149461">NANs</a></h3>
+
+<p class=3D"MsoNormal">IEEE floating point numbers have a series of represe=
+ntations
+for NANs. These representations &#8211; sharing an exponent with infinity=
+ but marked
+by their non-zero mantissa &#8211; are numerically adjacent to the infiniti=
+es when
+compared as <span class=3D"SpellE">ints</span>. Therefore it is possible fo=
+r an
+infinite result, or a FLT_MAX result, to compare as being very close to a=
+ <st1:place w:st=3D"on">NAN</st1:place>. If your code produces <st1:place=
+ w:st=3D"on">NAN</st1:place>
+results then this could be very bad. However, two things protect against th=
+is
+problem. One is that most floating point code is designed to not produce NA=
+Ns,
+and in fact most floating point code should treat NANs as an error by enabl=
+ing
+floating point divide by zero and floating point illegal operation exceptio=
+ns.
+The other reason this should not be an issue is that usually only one <st1:=
+place w:st=3D"on">NAN</st1:place> value is generated. On x87 compatible pro=
+cessors this
+value is 0xFFC00000, which has a value separated by four million from the
+nearest infinity. This value is particularly well placed because another ri=
+sk
+with <st1:place w:st=3D"on">NAN</st1:place> comparisons is that they could=
+ wrap
+around. A <st1:place w:st=3D"on">NAN</st1:place> with a value of 0xFFFFFFFF=
+ could
+compare as being very close to zero. The translation of negative numbers us=
+ed
+by AlmostEqual2sComplement avoids this by moving the NANs where they can on=
+ly
+wrap around to each other, but the NAN value 0xFFC00000 also avoids this
+problem since it keeps the <st1:place w:st=3D"on">NAN</st1:place> value four
+million ulps away from wrapping around.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">One other complication is that comparisons involving=
+ NANs
+are always supposed to return false, but AlmostEqual2sComplement will say=
+ that
+two NANs are equal to each other if they have the same integer representati=
+on.
+If you rely on correct <st1:place w:st=3D"on">NAN</st1:place> comparisons=
+ you
+have to add extra checks.</p>
+
+<h3><a name=3D"_Toc135149462">Limitations</a></h3>
+
+<p class=3D"MsoNormal"><span class=3D"SpellE"><span class=3D"GramE">maxUlps=
+</span></span>
+cannot be arbitrarily large. If <span class=3D"SpellE">maxUlps</span> is fo=
+ur
+million or greater then there is a risk of finding large negative floats eq=
+ual
+to NANs. If <span class=3D"SpellE">maxUlps</span> is sixteen million or gre=
+ater
+then the largest positive floats will compare as equal to the largest negat=
+ive
+floats.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">As a practical matter such large <span class=3D"Spel=
+lE">maxUlps</span>
+values should not be needed. A <span class=3D"SpellE">maxUlps</span> of six=
+teen
+million means that numbers 100% larger and 50% smaller should count as equa=
+l. A
+<span class=3D"SpellE">maxUlps</span> of four million means that numbers 25=
+% larger
+and 12.5% smaller should count as equal. If these large <span class=3D"Spel=
+lE">maxUlps</span>
+values are needed then separate checking for wrap-around above infinity to=
+ NANs
+or numbers of the opposite sign will be needed. To prevent accidental usage=
+ of
+huge <span class=3D"SpellE">maxUlps</span> values the comparison routines=
+ assert
+that <span class=3D"SpellE">maxUlps</span> is in a safe range.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">AlmostEqual2sComplement is very reliant on the IEEE=
+ floating
+point math format, and assumes twos-complement integers of the same size.=
+ These
+limitations are the norm on the majority of machines, especially consumer
+machines, but there are machines out there that use different formats. For=
+ this
+reason, and because the techniques used are tricky and non-obvious, it is
+important to encapsulate the behavior in a function where appropriate
+documentation, asserts, and conditional checks can be placed. </p>
+
+<h2><a name=3D"_Toc135149463">Summary</a></h2>
+
+<p class=3D"MsoNormal">AlmostEqual2sComplement is an effective way of handl=
+ing
+floating point comparisons. Its behavior does not map perfectly to AlmostEq=
+ualRelative,
+but in many ways its behavior is arguably superior. To summarize, AlmostEqu=
+al2sComplement
+has these characteristics:</p>
+
+<ul style=3D"margin-top: 0cm;" type=3D"disc">
+ <li class=3D"MsoNormal" style=3D"">Measures
+     whether two floats are &#8216;close&#8217; to each other, where close=
+ is defined by
+     ulps, also interpreted as how many floats there are in-between the num=
+bers</li>
+ <li class=3D"MsoNormal" style=3D"">Treats
+     infinity as being close to FLT_MAX</li>
+ <li class=3D"MsoNormal" style=3D"">Treats
+     NANs as being four million ulps away from everything (assuming the def=
+ault
+     <st1:place w:st=3D"on">NAN</st1:place> value for x87), except other NA=
+Ns</li>
+ <li class=3D"MsoNormal" style=3D"">Accepts
+     greater relative error as numbers gradually underflow to subnormals</l=
+i>
+ <li class=3D"MsoNormal" style=3D"">Treats
+     tiny negative numbers as being close to tiny positive numbers</li>
+</ul>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">If the special characteristics of AlmostEqual2sCompl=
+ement
+are not desirable then they can selectively be checked for. A version with=
+ the
+necessary checks, #<span class=3D"SpellE">ifdefed</span> for easy control=
+ of the
+behavior, is available <a href=3D"ftp://ftp.cygnus-software.com/pub/compare=
+code.zip">here.</a></p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">AlmostEqual2sComplement works best on machines that=
+ can
+transfer values quickly between the floating point and integer units. This
+often requires going through memory and can be quite slow. This function ca=
+n be
+implemented efficiently on machines with vector units that can do integer or
+floating point operations on the same registers. This allows reinterpreting=
+ the
+values without going through memory.</p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+<p class=3D"MsoNormal">The same techniques can be applied to doubles, mappi=
+ng them
+to 64-bit integers. Because doubles have a 53-bit mantissa a one <span clas=
+s=3D"SpellE">ulp</span> error implies a relative error of between
+1/4,000,000,000,000,000 and 1/8,000,000,000,000,000.</p>
+
+<h1><a name=3D"_Toc135149464">References</a></h1>
+
+<p class=3D"MsoNormal"><a href=3D"http://research.microsoft.com/%7Ehollasch=
+/cgindex/coding/ieeefloat.html">IEEE
+Standard 754 Floating Point Numbers</a> by <st1:personname w:st=3D"on">Stev=
+e</st1:personname>
+Hollasch</p>
+
+<p class=3D"MsoNormal"><a href=3D"http://www.cs.berkeley.edu/%7Ewkahan/ieee=
+754status/IEEE754.PDF">Lecture
+Notes on the Status of IEEE Standard 754 for Binary Floating-Point Arithmet=
+ic</a>
+by William <span class=3D"SpellE">Kahan</span></p>
+
+<p class=3D"MsoNormal"><a href=3D"ftp://ftp.cygnus-software.com/pub/compare=
+code.zip">Source
+code for compare functions and tests<o:p></o:p></a></p>
+
+<p class=3D"MsoNormal"><a href=3D"http://www.cygnus-software.com/papers/ind=
+ex.html">Other
+papers...<o:p></o:p></a></p>
+
+<p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+
+</div>
+
+</body></html>
+------=_NextPart_000_0000_158F3644.D679DD70--

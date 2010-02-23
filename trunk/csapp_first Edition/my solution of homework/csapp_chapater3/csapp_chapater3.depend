@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1264995687 source:/home/master/workspace/csapp/csapp_chapater3/3_31.c
+	"3_31.h"
+
+1264995687 /home/master/workspace/csapp/csapp_chapater3/3_31.h
+
+1265329015 source:/home/master/workspace/csapp/csapp_chapater3/main.cpp
+	<iostream>
+	"3_31.c"
+	"3_37.c"
+	"3_39.c"
+	"3_40.c"
+
+1264995687 /home/master/workspace/csapp/csapp_chapater3/3_31.c
+	"3_31.h"
+
+1265272696 source:/home/master/workspace/csapp/csapp_chapater3/3_37.c
+	"3_37.h"
+
+1265015832 /home/master/workspace/csapp/csapp_chapater3/3_37.h
+	<stdio.h>
+
+1265272696 /home/master/workspace/csapp/csapp_chapater3/3_37.c
+	"3_37.h"
+
+1265274318 source:/home/master/workspace/csapp/csapp_chapater3/3_39.c
+	"3_39.h"
+
+1265271412 /home/master/workspace/csapp/csapp_chapater3/3_39.h
+
+1265274318 /home/master/workspace/csapp/csapp_chapater3/3_39.c
+	"3_39.h"
+
+1265328817 source:/home/master/workspace/csapp/csapp_chapater3/3_40.c
+	"3_40.h"
+
+1265328631 /home/master/workspace/csapp/csapp_chapater3/3_40.h
+
+1265328817 /home/master/workspace/csapp/csapp_chapater3/3_40.c
+	"3_40.h"
+

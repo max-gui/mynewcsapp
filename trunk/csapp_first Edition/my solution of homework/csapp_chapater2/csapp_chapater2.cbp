@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="csapp_chapater2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/show_bytes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/show_bytes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="2_38_2_40.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_38_2_40.h" />
+		<Unit filename="2_41.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_41.h" />
+		<Unit filename="2_42.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_42.h" />
+		<Unit filename="2_43.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_43.h" />
+		<Unit filename="2_44.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_44.h" />
+		<Unit filename="2_45.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_45.h" />
+		<Unit filename="2_46.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2_46.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
